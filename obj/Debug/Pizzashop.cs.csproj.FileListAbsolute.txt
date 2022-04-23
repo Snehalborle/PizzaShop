@@ -1,0 +1,11 @@
+C:\csharp\repositories\PizzaShop\bin\Debug\Pizzashop.exe.config
+C:\csharp\repositories\PizzaShop\bin\Debug\Pizzashop.exe
+C:\csharp\repositories\PizzaShop\bin\Debug\Pizzashop.pdb
+C:\csharp\repositories\PizzaShop\obj\Debug\Pizzashop.cs.csproj.AssemblyReference.cache
+C:\csharp\repositories\PizzaShop\obj\Debug\Pizzashop.cs.csproj.SuggestedBindingRedirects.cache
+C:\csharp\repositories\PizzaShop\obj\Debug\Pizzashop.PizzaShop.resources
+C:\csharp\repositories\PizzaShop\obj\Debug\Pizzashop.Properties.Resources.resources
+C:\csharp\repositories\PizzaShop\obj\Debug\Pizzashop.cs.csproj.GenerateResource.cache
+C:\csharp\repositories\PizzaShop\obj\Debug\Pizzashop.cs.csproj.CoreCompileInputs.cache
+C:\csharp\repositories\PizzaShop\obj\Debug\Pizzashop.exe
+C:\csharp\repositories\PizzaShop\obj\Debug\Pizzashop.pdb

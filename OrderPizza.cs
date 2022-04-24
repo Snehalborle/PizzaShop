@@ -10,7 +10,7 @@ namespace Pizzashop
 ///
     internal class OrderPizza
     {
-        public string Create(PizzaTypeEnum pizzaType)
+        public string Order(PizzaTypeEnum pizzaType)
         {
             switch (pizzaType)
             {

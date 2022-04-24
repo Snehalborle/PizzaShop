@@ -76,9 +76,9 @@
             this.lblMessageToUser.AutoSize = true;
             this.lblMessageToUser.Location = new System.Drawing.Point(174, 246);
             this.lblMessageToUser.Name = "lblMessageToUser";
-            this.lblMessageToUser.Size = new System.Drawing.Size(51, 20);
+            this.lblMessageToUser.Size = new System.Drawing.Size(184, 20);
             this.lblMessageToUser.TabIndex = 5;
-            this.lblMessageToUser.Text = "label1";
+            this.lblMessageToUser.Text = "Enjoy our Delicious pizza";
             // 
             // PizzaShop
             // 
